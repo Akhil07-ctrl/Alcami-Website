@@ -2,6 +2,10 @@
 
 A modern, responsive website for Alcami, a premium adaptogen supplement brand featuring high-quality ingredients and elegant design.
 
+## 🚀 Live Demo
+
+Check out the live demo: [Alcami Website](https://akhil07-ctrl.github.io/Alcami-Website/)
+
 ## 🌟 Overview
 
 Alcami is a sophisticated e-commerce website showcasing premium adaptogen supplements with a focus on quality, effectiveness, and user experience. The site features a clean, modern design with interactive elements and smooth animations.
